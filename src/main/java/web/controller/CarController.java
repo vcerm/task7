@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import web.Service.CarService;
 import web.Service.CarServiceImpl;
-import web.module.Car;
+import web.models.Car;
 
 import java.util.Arrays;
 

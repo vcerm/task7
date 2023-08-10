@@ -1,4 +1,4 @@
-package web.module;
+package web.models;
 
 public class Car {
     private int id;
